@@ -3,6 +3,9 @@ A repository for the different courses I have taken/am working on regarding SQL 
 
 ### Training
 
-- Add Udemy courses as separate directories
-- Flesh out the current self project directories
-- Flesh our youtube practice materials
+
+### To Do List
+
+- __1__ - Add Udemy courses as separate directories
+- __2__ - Flesh out the current self project directories
+- __3__ - Flesh our youtube practice materials
